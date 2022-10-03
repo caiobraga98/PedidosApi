@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FteUuvWrzlbkieM8urdl0McligEf6KCK6aRulX6V9Cxt0g7P0flS+wBgmFTsDTQxUNTU7Ya7gn3Gx3v1rEySAw==",
+  "dgSpecHash": "BHstFKnJ1Qj+VrzTcTE+t5kKDqF/xUptcmqsTGXxgblAlI5Sd9C9H6LgyVl/exy9jlibIP7eXSkgaR7QhdXFPw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\caiob\\source\\repos\\Pedidos\\Pedidos\\Pedidos.csproj",
+  "projectFilePath": "C:\\Users\\caiob\\Documents\\projetos\\PedidosApi\\Pedidos\\Pedidos\\Pedidos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\caiob\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\caiob\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

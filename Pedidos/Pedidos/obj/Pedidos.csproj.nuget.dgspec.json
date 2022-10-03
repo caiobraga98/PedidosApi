@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\caiob\\source\\repos\\Pedidos\\Pedidos\\Pedidos.csproj": {}
+    "C:\\Users\\caiob\\Documents\\projetos\\PedidosApi\\Pedidos\\Pedidos\\Pedidos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\caiob\\source\\repos\\Pedidos\\Pedidos\\Pedidos.csproj": {
+    "C:\\Users\\caiob\\Documents\\projetos\\PedidosApi\\Pedidos\\Pedidos\\Pedidos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\caiob\\source\\repos\\Pedidos\\Pedidos\\Pedidos.csproj",
+        "projectUniqueName": "C:\\Users\\caiob\\Documents\\projetos\\PedidosApi\\Pedidos\\Pedidos\\Pedidos.csproj",
         "projectName": "Pedidos",
-        "projectPath": "C:\\Users\\caiob\\source\\repos\\Pedidos\\Pedidos\\Pedidos.csproj",
+        "projectPath": "C:\\Users\\caiob\\Documents\\projetos\\PedidosApi\\Pedidos\\Pedidos\\Pedidos.csproj",
         "packagesPath": "C:\\Users\\caiob\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\caiob\\source\\repos\\Pedidos\\Pedidos\\obj\\",
+        "outputPath": "C:\\Users\\caiob\\Documents\\projetos\\PedidosApi\\Pedidos\\Pedidos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\caiob\\AppData\\Roaming\\NuGet\\NuGet.Config",
